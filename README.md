@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @ESCAdrummer
-- 👀 I’m interested in developing applications but personally in drumming and playing some videogames.
+- 👀 I’m interested in developing applications and working in a team. On the personal side I like drumming very frequently and playing videogames ocassionally.
 - 🌱 I’m currently learning Java and Python. I am studying a computer programming diploma.
-- 💞️ I’m looking to collaborate on anything scientific and that will make me learn.
+- 💞️ I’m looking to collaborate on anything scientific and that will make me learn new interesting technologies.
 - 📫 You can reach me by email!
 
 <!---
